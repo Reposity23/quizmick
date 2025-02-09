@@ -1,0 +1,227 @@
+{
+  "id": "bitcoin",
+  "topic": "Bitcoin Fundamentals",
+  "description": "Test your knowledge about Bitcoin, its history, technology, and key concepts",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Who is credited with creating Bitcoin?",
+      "choices": [
+        "Satoshi Nakamoto",
+        "Vitalik Buterin",
+        "Mark Zuckerberg",
+        "Elon Musk"
+      ],
+      "correct_answer": "Satoshi Nakamoto"
+    },
+    {
+      "id": "2",
+      "question": "In which year was Bitcoin launched?",
+      "choices": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "correct_answer": "2009"
+    },
+    {
+      "id": "3",
+      "question": "What is the maximum supply of Bitcoin that will ever exist?",
+      "choices": [
+        "21 million",
+        "18 million",
+        "25 million",
+        "100 million"
+      ],
+      "correct_answer": "21 million"
+    },
+    {
+      "id": "4",
+      "question": "What is the process of creating new Bitcoins called?",
+      "choices": [
+        "Mining",
+        "Minting",
+        "Printing",
+        "Forging"
+      ],
+      "correct_answer": "Mining"
+    },
+    {
+      "id": "5",
+      "question": "What is the smallest unit of Bitcoin called?",
+      "choices": [
+        "Satoshi",
+        "Bit",
+        "Wei",
+        "Gwei"
+      ],
+      "correct_answer": "Satoshi"
+    },
+    {
+      "id": "6",
+      "question": "What type of network is Bitcoin based on?",
+      "choices": [
+        "Peer-to-peer",
+        "Client-server",
+        "Centralized",
+        "Hub-and-spoke"
+      ],
+      "correct_answer": "Peer-to-peer"
+    },
+    {
+      "id": "7",
+      "question": "What technology underlies Bitcoin's transaction system?",
+      "choices": [
+        "Blockchain",
+        "SQL Database",
+        "Cloud Storage",
+        "File System"
+      ],
+      "correct_answer": "Blockchain"
+    },
+    {
+      "id": "8",
+      "question": "How often does Bitcoin halving occur?",
+      "choices": [
+        "Every 210,000 blocks",
+        "Every year",
+        "Every 100,000 blocks",
+        "Every 500,000 blocks"
+      ],
+      "correct_answer": "Every 210,000 blocks"
+    },
+    {
+      "id": "9",
+      "question": "What is the primary purpose of Bitcoin's proof-of-work system?",
+      "choices": [
+        "Prevent double-spending",
+        "Speed up transactions",
+        "Reduce fees",
+        "Increase supply"
+      ],
+      "correct_answer": "Prevent double-spending"
+    },
+    {
+      "id": "10",
+      "question": "What is the average time to mine a new Bitcoin block?",
+      "choices": [
+        "10 minutes",
+        "1 hour",
+        "1 day",
+        "1 minute"
+      ],
+      "correct_answer": "10 minutes"
+    },
+    {
+      "id": "11",
+      "question": "What was the first real-world transaction using Bitcoin?",
+      "choices": [
+        "Two pizzas",
+        "A car",
+        "A house",
+        "A computer"
+      ],
+      "correct_answer": "Two pizzas"
+    },
+    {
+      "id": "12",
+      "question": "What is a Bitcoin wallet address?",
+      "choices": [
+        "A public key hash",
+        "An email address",
+        "A phone number",
+        "A username"
+      ],
+      "correct_answer": "A public key hash"
+    },
+    {
+      "id": "13",
+      "question": "What happens to transaction fees in Bitcoin?",
+      "choices": [
+        "Go to miners",
+        "Get burned",
+        "Return to sender",
+        "Go to developers"
+      ],
+      "correct_answer": "Go to miners"
+    },
+    {
+      "id": "14",
+      "question": "What is a Bitcoin node?",
+      "choices": [
+        "A computer running Bitcoin software",
+        "A mining machine",
+        "A wallet application",
+        "A Bitcoin exchange"
+      ],
+      "correct_answer": "A computer running Bitcoin software"
+    },
+    {
+      "id": "15",
+      "question": "What is the purpose of Bitcoin's difficulty adjustment?",
+      "choices": [
+        "Maintain 10-minute block times",
+        "Increase mining rewards",
+        "Reduce transaction fees",
+        "Speed up transactions"
+      ],
+      "correct_answer": "Maintain 10-minute block times"
+    },
+    {
+      "id": "16",
+      "question": "What is a Bitcoin fork?",
+      "choices": [
+        "A split in the blockchain",
+        "A mining tool",
+        "A type of wallet",
+        "A payment method"
+      ],
+      "correct_answer": "A split in the blockchain"
+    },
+    {
+      "id": "17",
+      "question": "What is the Bitcoin mempool?",
+      "choices": [
+        "Unconfirmed transactions",
+        "Confirmed transactions",
+        "Mining rewards",
+        "Wallet addresses"
+      ],
+      "correct_answer": "Unconfirmed transactions"
+    },
+    {
+      "id": "18",
+      "question": "What is a Bitcoin private key used for?",
+      "choices": [
+        "Signing transactions",
+        "Mining blocks",
+        "Creating addresses",
+        "Viewing balances"
+      ],
+      "correct_answer": "Signing transactions"
+    },
+    {
+      "id": "19",
+      "question": "What is Bitcoin's consensus mechanism?",
+      "choices": [
+        "Proof of Work",
+        "Proof of Stake",
+        "Delegated Proof of Stake",
+        "Proof of Authority"
+      ],
+      "correct_answer": "Proof of Work"
+    },
+    {
+      "id": "20",
+      "question": "What is the purpose of Bitcoin's script language?",
+      "choices": [
+        "Define transaction conditions",
+        "Create new coins",
+        "Send messages",
+        "Store data"
+      ],
+      "correct_answer": "Define transaction conditions"
+    }
+  ]
+}
